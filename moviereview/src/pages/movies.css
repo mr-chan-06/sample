@@ -1,0 +1,23 @@
+.cnt1 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.cards {
+    margin: 10px;
+    box-shadow: 0px 0px 20px 0px rgb(0, 0, 0);
+    border-radius: 28px;
+    height: 300px;
+    width: 200px;
+}
+
+.cards:hover {
+    box-shadow: 0px 0px 20px 0px rgb(255, 255, 255);
+}
+
+.images {
+    height: 300px;
+    width: 200px;
+    border-radius: 25px;
+}
